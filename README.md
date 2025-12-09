@@ -33,6 +33,8 @@ This PySpark ETL pipeline processes large-scale Amazon sales data to generate co
 10. **Order Status Distribution** - Order completion rates
 
 ---
+## Architecture
+![architecture.png](architecture.png)
 
 ## 🛠️ Installation & Setup
 
