@@ -1,0 +1,30 @@
+Big Data & Ecosystem
+
+PySpark ETL Pipeline
+
+Goal:	
+
+    Align with the Python work to process large sales data using PySpark and generate enriched insights.	
+
+Tasks:	
+
+    Read raw CSVs from HDFS or local folder.	
+
+    Transform and clean the data (handle missing values, duplicates, etc.).	
+
+    Enrich data by calculating KPIs such as:	
+        Monthly Revenue
+        Profit Margin (%)
+        Region-wise Sales6
+        Average Order Value
+        (Come up with 3–4 more KPIs as needed)
+
+    Write aggregated results to Parquet or a managed table.	
+
+    (Optional) Integrate with Kafka for streaming order ingestion.	
+
+    Tech: PySpark, HDFS, Kafka (optional)	
+
+    Deliverables: PySpark script or notebook + pipeline diagram + screenshots (Spark job output, DAG view, Parquet output sample)	
+
+    Dataset: https://wgcp-my.sharepoint.com/:f:/g/personal/ritish_jogi_blend360_com/EmxzwFjNkaxPuCw2mQ0abr0BGg6XzIPlj22VogFVtQniyg?e=aglSyr
